@@ -1,0 +1,34 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/mnt/d/C++_projects/git2/HSE-Course/module-1/homework/Geometry/hierarchy/ellipse.cpp
+ellipse.h
+/mnt/d/C++_projects/git2/HSE-Course/module-1/homework/Geometry/hierarchy/ellipse.h
+
+/mnt/d/C++_projects/git2/HSE-Course/module-1/homework/Geometry/hierarchy/ellipse.h
+shape.h
+/mnt/d/C++_projects/git2/HSE-Course/module-1/homework/Geometry/hierarchy/shape.h
+
+/mnt/d/C++_projects/git2/HSE-Course/module-1/homework/Geometry/hierarchy/line.h
+point.h
+/mnt/d/C++_projects/git2/HSE-Course/module-1/homework/Geometry/hierarchy/point.h
+
+/mnt/d/C++_projects/git2/HSE-Course/module-1/homework/Geometry/hierarchy/point.h
+iostream
+-
+vector
+-
+cmath
+-
+algorithm
+-
+
+/mnt/d/C++_projects/git2/HSE-Course/module-1/homework/Geometry/hierarchy/shape.h
+line.h
+/mnt/d/C++_projects/git2/HSE-Course/module-1/homework/Geometry/hierarchy/line.h
+

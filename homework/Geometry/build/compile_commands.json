@@ -1,0 +1,72 @@
+[
+{
+  "directory": "/mnt/d/C++_projects/git2/HSE-Course/module-1/homework/Geometry/build",
+  "command": "/bin/g++-9   -I/mnt/d/C++_projects/git2/HSE-Course/module-1/homework/Geometry/hierarchy -isystem /mnt/d/C++_projects/git2/HSE-Course/module-1/homework/Geometry/build/googletest-src/googletest/include -isystem /mnt/d/C++_projects/git2/HSE-Course/module-1/homework/Geometry/build/googletest-src/googletest  -g   -o CMakeFiles/geometry.dir/tests.cpp.o -c /mnt/d/C++_projects/git2/HSE-Course/module-1/homework/Geometry/tests.cpp",
+  "file": "/mnt/d/C++_projects/git2/HSE-Course/module-1/homework/Geometry/tests.cpp"
+},
+{
+  "directory": "/mnt/d/C++_projects/git2/HSE-Course/module-1/homework/Geometry/build/googletest-build/googlemock",
+  "command": "/bin/g++-9   -isystem /mnt/d/C++_projects/git2/HSE-Course/module-1/homework/Geometry/build/googletest-src/googlemock/include -isystem /mnt/d/C++_projects/git2/HSE-Course/module-1/homework/Geometry/build/googletest-src/googlemock -isystem /mnt/d/C++_projects/git2/HSE-Course/module-1/homework/Geometry/build/googletest-src/googletest/include -isystem /mnt/d/C++_projects/git2/HSE-Course/module-1/homework/Geometry/build/googletest-src/googletest  -g   -Wall -Wshadow -Werror -Wno-error=dangling-else -DGTEST_HAS_PTHREAD=1 -fexceptions -Wextra -Wno-unused-parameter -Wno-missing-field-initializers -o CMakeFiles/gmock_main.dir/src/gmock_main.cc.o -c /mnt/d/C++_projects/git2/HSE-Course/module-1/homework/Geometry/build/googletest-src/googlemock/src/gmock_main.cc",
+  "file": "/mnt/d/C++_projects/git2/HSE-Course/module-1/homework/Geometry/build/googletest-src/googlemock/src/gmock_main.cc"
+},
+{
+  "directory": "/mnt/d/C++_projects/git2/HSE-Course/module-1/homework/Geometry/build/googletest-build/googlemock",
+  "command": "/bin/g++-9   -I/mnt/d/C++_projects/git2/HSE-Course/module-1/homework/Geometry/build/googletest-src/googlemock/include -I/mnt/d/C++_projects/git2/HSE-Course/module-1/homework/Geometry/build/googletest-src/googlemock -isystem /mnt/d/C++_projects/git2/HSE-Course/module-1/homework/Geometry/build/googletest-src/googletest/include -isystem /mnt/d/C++_projects/git2/HSE-Course/module-1/homework/Geometry/build/googletest-src/googletest  -g   -Wall -Wshadow -Werror -Wno-error=dangling-else -DGTEST_HAS_PTHREAD=1 -fexceptions -Wextra -Wno-unused-parameter -Wno-missing-field-initializers -o CMakeFiles/gmock.dir/src/gmock-all.cc.o -c /mnt/d/C++_projects/git2/HSE-Course/module-1/homework/Geometry/build/googletest-src/googlemock/src/gmock-all.cc",
+  "file": "/mnt/d/C++_projects/git2/HSE-Course/module-1/homework/Geometry/build/googletest-src/googlemock/src/gmock-all.cc"
+},
+{
+  "directory": "/mnt/d/C++_projects/git2/HSE-Course/module-1/homework/Geometry/build/googletest-build/googletest",
+  "command": "/bin/g++-9   -isystem /mnt/d/C++_projects/git2/HSE-Course/module-1/homework/Geometry/build/googletest-src/googletest/include -isystem /mnt/d/C++_projects/git2/HSE-Course/module-1/homework/Geometry/build/googletest-src/googletest  -g   -Wall -Wshadow -Werror -Wno-error=dangling-else -DGTEST_HAS_PTHREAD=1 -fexceptions -Wextra -Wno-unused-parameter -Wno-missing-field-initializers -o CMakeFiles/gtest_main.dir/src/gtest_main.cc.o -c /mnt/d/C++_projects/git2/HSE-Course/module-1/homework/Geometry/build/googletest-src/googletest/src/gtest_main.cc",
+  "file": "/mnt/d/C++_projects/git2/HSE-Course/module-1/homework/Geometry/build/googletest-src/googletest/src/gtest_main.cc"
+},
+{
+  "directory": "/mnt/d/C++_projects/git2/HSE-Course/module-1/homework/Geometry/build/googletest-build/googletest",
+  "command": "/bin/g++-9   -I/mnt/d/C++_projects/git2/HSE-Course/module-1/homework/Geometry/build/googletest-src/googletest/include -I/mnt/d/C++_projects/git2/HSE-Course/module-1/homework/Geometry/build/googletest-src/googletest  -g   -Wall -Wshadow -Werror -Wno-error=dangling-else -DGTEST_HAS_PTHREAD=1 -fexceptions -Wextra -Wno-unused-parameter -Wno-missing-field-initializers -o CMakeFiles/gtest.dir/src/gtest-all.cc.o -c /mnt/d/C++_projects/git2/HSE-Course/module-1/homework/Geometry/build/googletest-src/googletest/src/gtest-all.cc",
+  "file": "/mnt/d/C++_projects/git2/HSE-Course/module-1/homework/Geometry/build/googletest-src/googletest/src/gtest-all.cc"
+},
+{
+  "directory": "/mnt/d/C++_projects/git2/HSE-Course/module-1/homework/Geometry/build/hierarchy",
+  "command": "/bin/g++-9   -I/mnt/d/C++_projects/git2/HSE-Course/module-1/homework/Geometry/hierarchy  -g   -o CMakeFiles/hierarchy.dir/circle.cpp.o -c /mnt/d/C++_projects/git2/HSE-Course/module-1/homework/Geometry/hierarchy/circle.cpp",
+  "file": "/mnt/d/C++_projects/git2/HSE-Course/module-1/homework/Geometry/hierarchy/circle.cpp"
+},
+{
+  "directory": "/mnt/d/C++_projects/git2/HSE-Course/module-1/homework/Geometry/build/hierarchy",
+  "command": "/bin/g++-9   -I/mnt/d/C++_projects/git2/HSE-Course/module-1/homework/Geometry/hierarchy  -g   -o CMakeFiles/hierarchy.dir/ellipse.cpp.o -c /mnt/d/C++_projects/git2/HSE-Course/module-1/homework/Geometry/hierarchy/ellipse.cpp",
+  "file": "/mnt/d/C++_projects/git2/HSE-Course/module-1/homework/Geometry/hierarchy/ellipse.cpp"
+},
+{
+  "directory": "/mnt/d/C++_projects/git2/HSE-Course/module-1/homework/Geometry/build/hierarchy",
+  "command": "/bin/g++-9   -I/mnt/d/C++_projects/git2/HSE-Course/module-1/homework/Geometry/hierarchy  -g   -o CMakeFiles/hierarchy.dir/line.cpp.o -c /mnt/d/C++_projects/git2/HSE-Course/module-1/homework/Geometry/hierarchy/line.cpp",
+  "file": "/mnt/d/C++_projects/git2/HSE-Course/module-1/homework/Geometry/hierarchy/line.cpp"
+},
+{
+  "directory": "/mnt/d/C++_projects/git2/HSE-Course/module-1/homework/Geometry/build/hierarchy",
+  "command": "/bin/g++-9   -I/mnt/d/C++_projects/git2/HSE-Course/module-1/homework/Geometry/hierarchy  -g   -o CMakeFiles/hierarchy.dir/point.cpp.o -c /mnt/d/C++_projects/git2/HSE-Course/module-1/homework/Geometry/hierarchy/point.cpp",
+  "file": "/mnt/d/C++_projects/git2/HSE-Course/module-1/homework/Geometry/hierarchy/point.cpp"
+},
+{
+  "directory": "/mnt/d/C++_projects/git2/HSE-Course/module-1/homework/Geometry/build/hierarchy",
+  "command": "/bin/g++-9   -I/mnt/d/C++_projects/git2/HSE-Course/module-1/homework/Geometry/hierarchy  -g   -o CMakeFiles/hierarchy.dir/polygon.cpp.o -c /mnt/d/C++_projects/git2/HSE-Course/module-1/homework/Geometry/hierarchy/polygon.cpp",
+  "file": "/mnt/d/C++_projects/git2/HSE-Course/module-1/homework/Geometry/hierarchy/polygon.cpp"
+},
+{
+  "directory": "/mnt/d/C++_projects/git2/HSE-Course/module-1/homework/Geometry/build/hierarchy",
+  "command": "/bin/g++-9   -I/mnt/d/C++_projects/git2/HSE-Course/module-1/homework/Geometry/hierarchy  -g   -o CMakeFiles/hierarchy.dir/rectangle.cpp.o -c /mnt/d/C++_projects/git2/HSE-Course/module-1/homework/Geometry/hierarchy/rectangle.cpp",
+  "file": "/mnt/d/C++_projects/git2/HSE-Course/module-1/homework/Geometry/hierarchy/rectangle.cpp"
+},
+{
+  "directory": "/mnt/d/C++_projects/git2/HSE-Course/module-1/homework/Geometry/build/hierarchy",
+  "command": "/bin/g++-9   -I/mnt/d/C++_projects/git2/HSE-Course/module-1/homework/Geometry/hierarchy  -g   -o CMakeFiles/hierarchy.dir/shape.cpp.o -c /mnt/d/C++_projects/git2/HSE-Course/module-1/homework/Geometry/hierarchy/shape.cpp",
+  "file": "/mnt/d/C++_projects/git2/HSE-Course/module-1/homework/Geometry/hierarchy/shape.cpp"
+},
+{
+  "directory": "/mnt/d/C++_projects/git2/HSE-Course/module-1/homework/Geometry/build/hierarchy",
+  "command": "/bin/g++-9   -I/mnt/d/C++_projects/git2/HSE-Course/module-1/homework/Geometry/hierarchy  -g   -o CMakeFiles/hierarchy.dir/square.cpp.o -c /mnt/d/C++_projects/git2/HSE-Course/module-1/homework/Geometry/hierarchy/square.cpp",
+  "file": "/mnt/d/C++_projects/git2/HSE-Course/module-1/homework/Geometry/hierarchy/square.cpp"
+},
+{
+  "directory": "/mnt/d/C++_projects/git2/HSE-Course/module-1/homework/Geometry/build/hierarchy",
+  "command": "/bin/g++-9   -I/mnt/d/C++_projects/git2/HSE-Course/module-1/homework/Geometry/hierarchy  -g   -o CMakeFiles/hierarchy.dir/triangle.cpp.o -c /mnt/d/C++_projects/git2/HSE-Course/module-1/homework/Geometry/hierarchy/triangle.cpp",
+  "file": "/mnt/d/C++_projects/git2/HSE-Course/module-1/homework/Geometry/hierarchy/triangle.cpp"
+}
+]
